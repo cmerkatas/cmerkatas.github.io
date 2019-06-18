@@ -1,7 +1,7 @@
 ### Welcome to my webpage!
 
 #### About me
-In July 2018 I've joined the Information Technology Laboratory at the National Institute of Standards and Technology (Gaithersburg MD, USA) as a postdoc research in the Statistical Engineering Division.  My old [website](http://actuarweb.aegean.gr/phd/cmerkatas/) in the [department of Statistics](www.actuar.aegean.gr) is old and outdated.
+In July 2018 I've joined the Information Technology Laboratory at the National Institute of Standards and Technology (Gaithersburg MD, USA) as a postdoc research in the Statistical Engineering Division.  My old [website](http://actuarweb.aegean.gr/phd/cmerkatas/) in the [department of Statistics](http://www.actuar.aegean.gr) is old and outdated.
 
 Previous to this, I did my PhD (thesis title: Bayesian nonparametrics and Applications)
 in the Department of Mathematics at University of the Aegean, Greece under the supervision of [Spyros Hatjispyros](http://www.samos.aegean.gr/actuar/schatz/index.htm).
