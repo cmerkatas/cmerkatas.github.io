@@ -1,9 +1,16 @@
-## Welcome to GitHub Pages
+# Welcome to my webpage!
 
-You can use the [editor on GitHub](https://github.com/cmerkatas/cmerkatas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About me
+In July 2018 I've joined the Information Technology Laboratory at the National Institute of Standards and Technology (Gaithersburg MD, USA) as a postdoc research in the Statistical Engineering Division.  My old [website](http://actuarweb.aegean.gr/phd/cmerkatas/) in the [department of Statistics](www.actuar.aegean.gr) is old and outdated.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Previous to this, I did my PhD (thesis title: Bayesian nonparametrics and Applications)
+in the Department of Mathematics at University of the Aegean, Greece under the supervision of [Spyros Hatjispyros](http://www.samos.aegean.gr/actuar/schatz/index.htm).
 
+Further back in time, I received a MSc in Statistics from the same department 
+and I studied Mathematics at the University of Patras, Greece with a specialization on
+Computational Mathematics and Informatics.
+
+My research interests lie in Bayesian nonparametrics and MCMC algorithms.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
