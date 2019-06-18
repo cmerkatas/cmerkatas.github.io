@@ -9,6 +9,8 @@ in nonlinear time series models and statistical machine learning.
 
 #### Publications
 
+C. Merkatas, B. Toman, A. Possolo, S. Schlamminger (2019): *Shades of Dark Uncertainty and Consensus Value for the Newtonian Constant of Gravitation.*, [arXiv:1905.09551](https://arxiv.org/abs/1905.09551)
+
 S. J. Hatjispyros, C. Merkatas (2019): *Joint reconstruction and prediction of random dynamical systems under borrowing of strength.*
 Chaos **29**(2), 023121 [https://doi.org/10.1063/1.5054656](https://doi.org/10.1063/1.5054656)
 
