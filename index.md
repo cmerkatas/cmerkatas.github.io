@@ -1,6 +1,6 @@
-# Welcome to my webpage!
+### Welcome to my webpage!
 
-## About me
+#### About me
 In July 2018 I've joined the Information Technology Laboratory at the National Institute of Standards and Technology (Gaithersburg MD, USA) as a postdoc research in the Statistical Engineering Division.  My old [website](http://actuarweb.aegean.gr/phd/cmerkatas/) in the [department of Statistics](www.actuar.aegean.gr) is old and outdated.
 
 Previous to this, I did my PhD (thesis title: Bayesian nonparametrics and Applications)
@@ -11,6 +11,9 @@ and I studied Mathematics at the University of Patras, Greece with a specializat
 Computational Mathematics and Informatics.
 
 My research interests lie in Bayesian nonparametrics and MCMC algorithms.
+
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
