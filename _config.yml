@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
 title: Christos Merkatas
 
-logo: /assets/img/logo.png
-show_downloads: true
+logo: me.jpg
 google_analytics: true
