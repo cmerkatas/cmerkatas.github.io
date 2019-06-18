@@ -1,3 +1,6 @@
+---
+layout: "page"
+---
 My research interests lie in Bayesian nonparametrics and MCMC algorithms and their applications
 in nonlinear time series models and statistical machine learning.
 
