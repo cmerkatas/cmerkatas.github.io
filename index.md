@@ -10,5 +10,5 @@ Further back in time, I received a MSc in Statistics from the same department
 and I studied Mathematics at the University of Patras, Greece with a specialization on
 Computational Mathematics and Informatics.
 
-My [research interests](https://cmerkatas.github.io/research.md) lie in Bayesian nonparametrics and MCMC algorithms.
+My [research interests](https://cmerkatas.github.io/research/) lie in Bayesian nonparametrics and MCMC algorithms.
 
