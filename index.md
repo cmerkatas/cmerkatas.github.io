@@ -13,5 +13,5 @@ Computational Mathematics and Informatics.
 My [research interests](https://cmerkatas.github.io/research/) lie in Bayesian nonparametrics and MCMC algorithms.
 
 If you want to contact me, 
-please send me an e-mail: christos "dot" merkatas "at" nist "dot" gov
+please send me an e-mail: christos "dot" merkatas "at" gmail "dot" com
 
