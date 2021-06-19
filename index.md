@@ -2,7 +2,7 @@
 
 #### About me
 
-I have recently joined Aalto University as a postdoctoral researcher at [Prof. Simo Särkkä's](https://users.aalto.fi/~ssarkka/) group.
+I am a postdoctoral researcher at Aalto university working in [Prof. Simo Särkkä's](https://users.aalto.fi/~ssarkka/) group.
 
 
 Previous to this, I was a postdoctoral researcher at the Information Technology Laboratory at the National Institute of Standards and Technology (Gaithersburg MD, USA) working with [Dr. Antonio Possolo](https://www.nist.gov/people/antonio-possolo).  Before joining NIST, I was doing my PhD (thesis title: Bayesian nonparametrics and Applications)
