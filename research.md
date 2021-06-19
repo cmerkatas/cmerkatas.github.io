@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /research
+permalink: /research/
 ---
 
 My research interests lie in Bayesian nonparametrics and MCMC algorithms and their applications
