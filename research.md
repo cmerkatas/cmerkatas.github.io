@@ -7,12 +7,15 @@ permalink: /research/
 My research interests lie in Bayesian nonparametrics and MCMC algorithms and their applications
 in nonlinear time series models and statistical machine learning.
 
+#### Working papers
+C. Merkatas, S. Särkkä (2021): *System identification using Bayesian neural networks with nonparametric noise models.* Submitted. [arXiv version](https://arxiv.org/abs/2104.12119)
+
 #### Publications
 
-C. Merkatas, B. Toman, A. Possolo, S. Schlamminger (2019): *Shades of Dark Uncertainty and Consensus Value for the Newtonian Constant of Gravitation.* Metrologia, Accepted
+C. Merkatas, B. Toman, A. Possolo, S. Schlamminger (2019): *Shades of Dark Uncertainty and Consensus Value for the Newtonian Constant of Gravitation.* Metrologia, **56**(5). [open access](https://iopscience.iop.org/article/10.1088/1681-7575/ab3365)
 
 Α. Possolo, C. Merkatas, O. Bodnar (2019): *Asymmetrical Uncertainties*, 
-Metrologia, **56**(4), [https://doi.org/10.1088/1681-7575/ab2a8d](https://doi.org/10.1088/1681-7575/ab2a8d)
+Metrologia, **56**(4), [open access](https://doi.org/10.1088/1681-7575/ab2a8d)
 
 S. J. Hatjispyros, C. Merkatas (2019): *Joint reconstruction and prediction of random dynamical systems under borrowing of strength.*
 Chaos **29**(2), 023121 [https://doi.org/10.1063/1.5054656](https://doi.org/10.1063/1.5054656)
