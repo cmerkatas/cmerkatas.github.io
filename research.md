@@ -29,6 +29,9 @@ Chaos **27**(6), 063116, [http://dx.doi.org/10.1063/1.4990547](http://dx.doi.org
 
 #### Talks
 
+C. Merkatas (2020): *Bayesian nonparametric estimation of random dynamical systems*, 
+iTHEMS Biology Seminar, RIKEN, Japan (virtual)
+
 S. J. Hatjispyros, C. Merkatas (2017): *Joint Bayesian nonparametric reconstruction of dynamical equations*,
 20th European Young Statisticians Meeting - Uppsala University, Sweden
 
