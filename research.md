@@ -12,6 +12,8 @@ C. Merkatas, S. Särkkä (2021): *System identification using Bayesian neural ne
 
 #### Publications
 
+S. Särkkä, C. Merkatas, T. Karvonen (2021): *Gaussian approximations of SDEs in Metropolis-adjusted Langevin algorithms.* In 31st IEEE International Workshop on Machine Learning for Signal Processing. To appear. 
+
 C. Merkatas, B. Toman, A. Possolo, S. Schlamminger (2019): *Shades of Dark Uncertainty and Consensus Value for the Newtonian Constant of Gravitation.* Metrologia, **56**(5). [open access](https://iopscience.iop.org/article/10.1088/1681-7575/ab3365)
 
 Α. Possolo, C. Merkatas, O. Bodnar (2019): *Asymmetrical Uncertainties*, 
@@ -45,20 +47,12 @@ S.J, Hatjispyros, C., Merkatas (2015): *Bayesian Reconstruction and prediction o
 S.J, Hatjispyros, C., Merkatas (2014): *Bayesian nonparametric reconstruction of nonlinear dynamic systems*
 3rd Stochastic Modeling Techniques and Data Analysis International Conference - Lisbon, Portugal.
 
-#### Poster Presentations
 
-S.J, Hatjispyros, C., Merkatas (2016): *Dependent Mixtures of Geometric Weights Priors*, Greek Stochastics θ' - Tinos, Greece.
+#### Theses
 
-S.J, Hatjispyros, C., Merkatas (2015): *Joint estimation of future unobserved values of a nonlinear noisy time series*,
-28 Panhellenic conference in Statisitcs - Athens, Greece.
+C. Merkatas (2018) *Bayesian nonparametrics and applications.* [PDF](In 31st IEEE International Workshop on Machine Learning for Signal Processing. To appear.)
 
-S., J., Hatjispyros, K., Kaloudis, C., Merkatas (2015): *Bayesian reconstruction of higher dimensional nonlinear dynamic systems*,
-28 Panhellenic conference in Statisitcs - Athens, Greece.
-
-S., J., Hatjispyros, C., Merkatas (2014): *Bayesian nonparametric reconstuction of nonlinear dynamic systems*,
-27 Panhellenic conference in Statisitcs - Thessaloniki, Greece.
-
-#### MSc Thesis
-
-Analysis of Super-saturated designs and Simulation. (in Greek)
+C. Merkatas (2012) Analysis of Super-saturated designs and Simulation. MSc thesis (in Greek)
 Advisor: [Stelios D. Georgiou](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/g/georgiou-dr-stelios)
+
+
