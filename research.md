@@ -50,7 +50,7 @@ S.J, Hatjispyros, C., Merkatas (2014): *Bayesian nonparametric reconstruction of
 
 #### Theses
 
-C. Merkatas (2018) *Bayesian nonparametrics and applications.* [PDF](In 31st IEEE International Workshop on Machine Learning for Signal Processing. To appear.)
+C. Merkatas (2018) *Bayesian nonparametrics and applications.* PhD thesis, University of the Aegean, Greece. [PDF](https://hellanicus.lib.aegean.gr/bitstream/handle/11610/18560/cm_thesis.pdf?sequence=1&isAllowed=y)
 
 C. Merkatas (2012) Analysis of Super-saturated designs and Simulation. MSc thesis (in Greek)
 Advisor: [Stelios D. Georgiou](https://www.rmit.edu.au/contact/staff-contacts/academic-staff/g/georgiou-dr-stelios)
