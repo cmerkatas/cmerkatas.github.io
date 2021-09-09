@@ -12,7 +12,7 @@ C. Merkatas, S. Särkkä (2021): *System identification using Bayesian neural ne
 
 #### Publications
 
-S. Särkkä, C. Merkatas, T. Karvonen (2021): *Gaussian approximations of SDEs in Metropolis-adjusted Langevin algorithms.* In 31st IEEE International Workshop on Machine Learning for Signal Processing. To appear. 
+S. Särkkä, C. Merkatas, T. Karvonen (2021): *Gaussian approximations of SDEs in Metropolis-adjusted Langevin algorithms.* To appear in 31st IEEE International Workshop on Machine Learning for Signal Processing. [PDF](https://tskarvone.github.io/pdf/MLSP2021.pdf)
 
 C. Merkatas, B. Toman, A. Possolo, S. Schlamminger (2019): *Shades of Dark Uncertainty and Consensus Value for the Newtonian Constant of Gravitation.* Metrologia, **56**(5). [open access](https://iopscience.iop.org/article/10.1088/1681-7575/ab3365)
 
