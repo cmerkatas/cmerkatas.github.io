@@ -7,12 +7,12 @@ permalink: /research/
 My research interests lie in Bayesian nonparametrics and MCMC algorithms and their applications
 in nonlinear time series models and statistical machine learning.
 
-#### Working papers
-C. Merkatas, S. Särkkä (2021): *System identification using Bayesian neural networks with nonparametric noise models.* Submitted. [arXiv version](https://arxiv.org/abs/2104.12119)
+
 
 #### Publications
+C. Merkatas, S. Särkkä (2022): *System identification using Bayesian neural networks with nonparametric noise models.* Accepted for publication in the Journal of Time Series Analysis. An earlier version can be found in [arXiv](https://arxiv.org/abs/2104.12119)
 
-S. Särkkä, C. Merkatas, T. Karvonen (2021): *Gaussian approximations of SDEs in Metropolis-adjusted Langevin algorithms.* To appear in 31st IEEE International Workshop on Machine Learning for Signal Processing. [PDF](https://tskarvone.github.io/pdf/MLSP2021.pdf)
+S. Särkkä, C. Merkatas, T. Karvonen (2021): *Gaussian approximations of SDEs in Metropolis-adjusted Langevin algorithms.* In 31st IEEE International Workshop on Machine Learning for Signal Processing. [PDF](https://tskarvone.github.io/pdf/MLSP2021.pdf)
 
 C. Merkatas, B. Toman, A. Possolo, S. Schlamminger (2019): *Shades of Dark Uncertainty and Consensus Value for the Newtonian Constant of Gravitation.* Metrologia, **56**(5). [open access](https://iopscience.iop.org/article/10.1088/1681-7575/ab3365)
 
