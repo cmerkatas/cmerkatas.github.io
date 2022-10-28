@@ -12,7 +12,7 @@ Further back in time, I received a MSc in Statistics from the same department
 and I studied Mathematics at the University of Patras, Greece with a specialization on
 Computational Mathematics and Informatics.
 
-My [research interests](https://cmerkatas.github.io/research/) lie in Bayesian nonparametrics, MCMC algorithms and statistical machine learning.
+My [research interests](https://cmerkatas.github.io/research/) lie in Bayesian nonparametrics, MCMC algorithms and nonlinear time series.
 
 If you want to contact me, 
 please send me an e-mail: christos "dot" merkatas "at" gmail "dot" com
