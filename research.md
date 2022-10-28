@@ -10,7 +10,9 @@ in nonlinear time series models and statistical machine learning.
 
 
 #### Publications
-C. Merkatas, S. Särkkä (2022): *System identification using Bayesian neural networks with nonparametric noise models.* Accepted for publication in the Journal of Time Series Analysis. An earlier version can be found in [arXiv](https://arxiv.org/abs/2104.12119)
+S. J. Hatjispyros, C. Merkatas, S. G. Walker (2022): *Mixture models with decreasing weights.* Accepted for publication in Computational Statistics and Data Analysis, [https://doi.org/10.1016/j.csda.2022.107651](https://doi.org/10.1016/j.csda.2022.107651).
+
+C. Merkatas, S. Särkkä (2022): *System identification using Bayesian neural networks with nonparametric noise models.* Accepted for publication in Journal of Time Series Analysis. An earlier version can be found in [arXiv](https://arxiv.org/abs/2104.12119).
 
 S. Särkkä, C. Merkatas, T. Karvonen (2021): *Gaussian approximations of SDEs in Metropolis-adjusted Langevin algorithms.* In 31st IEEE International Workshop on Machine Learning for Signal Processing. [PDF](https://tskarvone.github.io/pdf/MLSP2021.pdf)
 
