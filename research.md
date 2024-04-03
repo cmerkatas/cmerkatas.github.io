@@ -10,9 +10,11 @@ in nonlinear time series models and statistical machine learning.
 
 
 #### Publications
-S. J. Hatjispyros, C. Merkatas, S. G. Walker (2022): *Mixture models with decreasing weights.* Accepted for publication in Computational Statistics and Data Analysis, [https://doi.org/10.1016/j.csda.2022.107651](https://doi.org/10.1016/j.csda.2022.107651).
+C. Merkatas, S. Särkkä (2024): *A Gibbs sampler for Bayesian nonparametric state-space models.* ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 13236-13240 [IEEE](https://ieeexplore.ieee.org/abstract/document/10446518).
 
-C. Merkatas, S. Särkkä (2022): *System identification using Bayesian neural networks with nonparametric noise models.* Accepted for publication in Journal of Time Series Analysis. An earlier version can be found in [arXiv](https://arxiv.org/abs/2104.12119).
+S. J. Hatjispyros, C. Merkatas, S. G. Walker (2023): *Mixture models with decreasing weights.* Computational Statistics and Data Analysis, 179, 107651	[https://doi.org/10.1016/j.csda.2022.107651](https://doi.org/10.1016/j.csda.2022.107651).
+
+C. Merkatas, S. Särkkä (2023): *System identification using auto-regressive Bayesian neural networks with nonparametric noise models.* Journal of Time Series Analysis, **44** (3), 319-330. [PDF](https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jtsa.12669) An earlier version can be found in [arXiv](https://arxiv.org/abs/2104.12119).
 
 S. Särkkä, C. Merkatas, T. Karvonen (2021): *Gaussian approximations of SDEs in Metropolis-adjusted Langevin algorithms.* In 31st IEEE International Workshop on Machine Learning for Signal Processing. [PDF](https://tskarvone.github.io/pdf/MLSP2021.pdf)
 
