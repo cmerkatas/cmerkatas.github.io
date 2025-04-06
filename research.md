@@ -10,6 +10,8 @@ in nonlinear time series models and statistical machine learning.
 
 
 #### Publications
+S. Särkkä, C. Merkatas (2025): *Beta-Bernoulli Filtering and Linear Feedback Control Based Step-Size Adaptation for HMC and MALA.* To appear in Proceedings of European Control Conference (ECC).
+
 C. Merkatas, S. Särkkä (2024): *A Gibbs sampler for Bayesian nonparametric state-space models.* ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 13236-13240 [IEEE](https://ieeexplore.ieee.org/abstract/document/10446518).
 
 S. J. Hatjispyros, C. Merkatas, S. G. Walker (2023): *Mixture models with decreasing weights.* Computational Statistics and Data Analysis, 179, 107651	[https://doi.org/10.1016/j.csda.2022.107651](https://doi.org/10.1016/j.csda.2022.107651).
