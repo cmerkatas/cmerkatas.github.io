@@ -10,7 +10,7 @@ in nonlinear time series models and statistical machine learning.
 
 
 #### Publications
-R.H. Ména, C. Merkatas, T. Nicoleris, C.E. Rodríguez (2026): *Exact finite mixture representations for species sampling processes.* Submitted. [arXiv](https://arxiv.org/pdf/2512.24414) 
+R.H. Mena, C. Merkatas, T. Nicoleris, C.E. Rodríguez (2026): *Exact finite mixture representations for species sampling processes.* Submitted. [arXiv](https://arxiv.org/pdf/2512.24414) 
 
 S. Särkkä, C. Merkatas (2025): *Beta-Bernoulli Filtering and Linear Feedback Control Based Step-Size Adaptation for HMC and MALA.* 2025 European Control Conference (ECC) [IEEE](https://ieeexplore.ieee.org/document/11186866/).
 
